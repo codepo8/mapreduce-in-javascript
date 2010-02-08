@@ -1,0 +1,13 @@
+*{margin:0;padding:0;}
+body,html{
+  background:#666;color:#ccc;
+}
+
+h1{font-family:georgia,serif;font-size:20px;color:#090;}
+#map{overflow:hidden;margin:.5em auto;width:400px;height:400px;}
+#map img{display:block;margin:0 auto;}
+#hd,#bd,#ft{width:500px;margin:0 auto;background:#fff;padding:10px;}
+#hd{margin-top:2em;}
+#ft{font-size:10px;}
+a{color:#369;}
+span{padding-left:2em; color:#393;}
